@@ -20,7 +20,7 @@ summary(cars)
 ## Including Plots
 
 You can also embed plots, for example:
-
+this plot has has a title added
 ```{r pressure, echo=FALSE}
 plot(pressure, main='Pressure plot')
 ```
